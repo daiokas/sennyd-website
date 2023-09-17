@@ -2,12 +2,12 @@ export const flyers: IFlyers[] = [
   {
     video: '/videos/flyer-10.mp4',
     desc: 'Step into a world where reality fades and the magic begins at ILLUSION! \nAs you enter the venue, prepare to be captivated by mesmerizing lights and hypnotic beats. This is not your ordinary party - it’s a kinky adventure that pushes the boundaries of pleasure and fantasy. Our talented DJs will guide you on a journey of illusions, blurring the lines between reality and your deepest desires. Join us for a night of pure fantasy and excitement at Illusion, where dreams become reality. Let your inhibitions fade away as you embrace the pulsating energy that flows through the air. \n // DRESS CODE:  • NO STREETWEAR  • Costumes, kinky, playful, extravagant, latex, leather, mesh - be creative  \n// LINE UP:  • Senny D ( Tokyo ) - @sennydmusic • Björn del Tongo ( Silodom / Saarbrücken ) - @bjoerndeltogno • Lea Lindner ( Silodom / Saarbrücken ) - @lealindnerdj \nartwork by @stu.achilles',
-    link: 'https:/ra.co/events/1763931',
+    link: 'https://ra.co/events/1763931',
   },
   {
     image: '/images/flyer-9.png',
     desc: 'Christian Smith, the founder of Tronic - one of Beatport’s top-selling techno labels, is coming to VENT!  \n With a career that has spanned decades, Christian continues to push the boundaries of techno music and captivate audiences worldwide. He’s collaborated with the likes of Carl Cox and many others, cementing his status as one of the genre’s top artists. If you’re a techno lover, you won’t want to miss this! \n In room 1, AHREUM, who performs at various venues around Shibuya and has recently expanded her activities, including releasing a mix distributed by popular Italian promoter Lose Control, will play an aggressive and groovy mix of house/techno and other genres. Also playing in the lineup is RINALUCKY, who mixes a variety of music with house/techno as its core. AND DRUNKEN KONG, who has been producing and organizing VENT’s popular SHAPE party and releasing music on Christian Smith’s Tronic label for many years, is also set to perform. \n In Room 2, Hiroaki Wada will showcase his unique DJ style that combines elements of techno, trance, and ambient. Joining him is Miguel Blancas, who is known for organizing the popular Deeep! event held at Daikanyama Debris. Also on the lineup is Senny D, a talented DJ who has performed at numerous renowned venues in Tokyo and has also been a part of DRUNKEN KONG’s parties.',
-    link: 'https:/ra.co/events/1688147',
+    link: 'https://ra.co/events/1688147',
   },
   {
     image: '/images/flyer-8.png',
