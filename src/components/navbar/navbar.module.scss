@@ -1,0 +1,33 @@
+.navbar {
+  @apply fixed w-full z-10 bg-black py-4 top-0 bg-cover md:bg-auto;
+  background-image: url('/images/sennyd-7.png');
+
+  nav {
+    .navlink {
+      @apply mx-4 flex-1 border-y border-primary p-4 text-center;
+    }
+
+    a {
+      font-size: 22px;
+      color: #fff;
+      display: block;
+      position: relative;
+      text-decoration: none;
+
+
+
+      &:hover,
+      &.active {
+        border-width: 2px 0 2px 0;
+        padding: 15px 16px 15px 16px;
+        font-weight: 500;
+      }
+    }
+  }
+}
+
+.mobileNav {
+  .navlink {
+    @apply p-4 block border border-primary p-4 w-full;
+  }
+}

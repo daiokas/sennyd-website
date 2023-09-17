@@ -1,0 +1,28 @@
+h1, h2, p, div, span {
+  @apply text-white;
+}
+
+h2 {
+  margin-top: 20px;
+  font-size: 28px;
+  font-family: 'san-serif';
+}
+
+input,
+textarea {
+  @apply text-black border rounded-lg text-lg block w-full outline-none mb-4 p-2;
+
+  &:focus {
+    @apply bg-white/10 border border-white text-white;
+  }
+
+  &::placeholder {
+    @apply text-gray-400;
+  }
+}
+
+[type="submit"] {
+  &:hover {
+    @apply bg-white text-black
+  }
+}
