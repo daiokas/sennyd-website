@@ -27,7 +27,6 @@ const EventComponent = ({ event }: Props) => {
             </p>
           )
         }
-
         {
           event.link && (
             <>
