@@ -1,7 +1,7 @@
 export const flyers: IFlyers[] = [
   {
     video: '/videos/flyer-10.mp4',
-    desc: 'Step into a world where reality fades and the magic begins at ILLUSION! \nAs you enter the venue, prepare to be captivated by mesmerizing lights and hypnotic beats. This is not your ordinary party - it’s a kinky adventure that pushes the boundaries of pleasure and fantasy. Our talented DJs will guide you on a journey of illusions, blurring the lines between reality and your deepest desires. Join us for a night of pure fantasy and excitement at Illusion, where dreams become reality. Let your inhibitions fade away as you embrace the pulsating energy that flows through the air. \n // DRESS CODE:  • NO STREETWEAR  • Costumes, kinky, playful, extravagant, latex, leather, mesh - be creative  \n// LINE UP:  • Senny D ( Tokyo ) - @sennydmusic • Björn del Tongo ( Silodom / Saarbrücken ) - @bjoerndeltogno • Lea Lindner ( Silodom / Saarbrücken ) - @lealindnerdj \nartwork by @stu.achilles',
+    desc: 'Step into a world where reality fades and the magic begins at ILLUSION! \nAs you enter the venue, prepare to be captivated by mesmerizing lights and hypnotic beats. This is not your ordinary party - it’s a kinky adventure that pushes the boundaries of pleasure and fantasy. Our talented DJs will guide you on a journey of illusions, blurring the lines between reality and your deepest desires. Join us for a night of pure fantasy and excitement at Illusion, where dreams become reality. Let your inhibitions fade away as you embrace the pulsating energy that flows through the air.',
     link: 'https://ra.co/events/1763931',
   },
   {

@@ -20,12 +20,20 @@ const EventComponent = ({ event }: Props) => {
         }
       </div>
       <div className="flex-1">
-        <p className="mb-4 whitespace-pre-line">
-          {event.desc}
-        </p>
+        {
+          event.desc && (
+            <p className="mb-4 whitespace-pre-line">
+            RA Description:<br />{event.desc}
+            </p>
+          )
+        }
+
         {
           event.link && (
-            <a href={event.link} target="_blank" rel="noreferrer">{event.link}</a>
+            <>
+              <span>RA Link:</span><br />
+              <a href={event.link} target="_blank" rel="noreferrer">{event.link}</a>
+            </>
           )
         }
         {
